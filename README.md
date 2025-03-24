@@ -4,18 +4,19 @@
 Hello, I'm Jomar Kristoffer L. Besayte. While I originally started as a Web Developer, I've discovered a passion for Quality Assurance (QA) and am committed to building a long-term career in this field. My background in freelance Web Development, where I integrated QA practices, has reinforced my belief in the importance of accessibility and inclusivity in the digital world. This portfolio highlights the skills I've acquired through online courses, independent study, and practical application. I am dedicated to continuous growth in QA and contributing to a more inclusive digital experience for all.
 
 * [Web Portfolio](https://www.linkedin.com/in/jomar-kristoffer-besayte-587256312/)  
-* [LinkedIn Profile](https://www.linkedin.com/in/jomar-kristoffer-besayte-587256312/)  
-  
+* [LinkedIn Profile](https://www.linkedin.com/in/jomar-kristoffer-besayte-587256312/)
+<br>
+
 ## Technical Skills
 ### Software Testing
-#### :white_circle: General
+#### General
 * SDLC & STLC
 * Flowchart creation
 * Test Scenario & Test Case creation
 * Bug Report creation
 * Documentation  
-    
-#### :white_circle: Testing Techniques
+
+#### Testing Techniques
 * Functional Testing & Non-Functional Testing
 * Unit Testing
 * Integrated Testing
@@ -23,25 +24,27 @@ Hello, I'm Jomar Kristoffer L. Besayte. While I originally started as a Web Deve
 * User-Acceptance Testing
 * Exploratory Testing
 * API Testing
-
-#### :white_circle: Tools for Automated Testing
+  
+#### Tools for Automated Testing
 * Playwright
 * Selenium
-    
-#### :white_circle: Data Manipulation
+
+#### Data Manipulation
 * SQL
+<br>
 
 ### Languages & Frameworks
-#### :white_circle: Programming Languages
+#### Programming Languages
 * JavaScript, React.js
 * PHP, Laravel 
-    
-#### :white_circle: Styling Languages
+
+#### Styling Languages
 * CSS, SCSS
 * Bootstrap, Tailwind 
-    
-#### :white_circle: Markup Language
+
+#### Markup Language
 * HTML
+<br>
 
 ### Tools
 * Jira - For bug tracking and project management
@@ -52,6 +55,7 @@ Hello, I'm Jomar Kristoffer L. Besayte. While I originally started as a Web Deve
 * Github - For repository
 * Microsoft Office (Word, Excel, PPT, etc.) - For creating reports
 * Google Drive - For storing files and data
+<br>
 
 ## Soft Skills
 * Communication
@@ -60,7 +64,9 @@ Hello, I'm Jomar Kristoffer L. Besayte. While I originally started as a Web Deve
 * Time-Management
 * Adaptability
 * Patience
+<br>
 
 ## Certificates
+<br>
 
 ## Work Samples
