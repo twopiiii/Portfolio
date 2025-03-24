@@ -6,7 +6,7 @@ Hello, I'm Jomar Kristoffer L. Besayte. While my initial experience was in Web D
 [My Linkedin Profile](https://www.linkedin.com/in/jomar-kristoffer-besayte-587256312/)
 
 ## Technical Skills
-### :large_blue_circle: Software Testing
+### Software Testing
 #### :white_circle: General
 * SDLC & STLC
 * Test Scenario creation
@@ -32,7 +32,7 @@ Hello, I'm Jomar Kristoffer L. Besayte. While my initial experience was in Web D
 * CSS, SCSS, Bootstrap, Tailwind
 * HTML
 
-### :large_blue_circle: Tools
+### Tools
 * Jira
 * Postman API
 * Visual Studio Code
