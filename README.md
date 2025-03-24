@@ -7,62 +7,58 @@ Hello, I'm Jomar Kristoffer L. Besayte. While my initial experience was in Web D
 
 ## Technical Skills
 ### Software Testing
-#### :white_circle: General
-* SDLC & STLC
-* Flowchart creation
-* Test Scenario creation
-* Test Case creation
-* Bug Report creation
-* Documentation
+    #### :white_circle: General
+    * SDLC & STLC
+    * Flowchart creation
+    * Test Scenario & Test Case creation
+    * Bug Report creation
+    * Documentation
   
-#### :white_circle: Testing Techniques
-* Functional Testing
-* Non-Functional Testing
-* Unit Testing
-* Integrated Testing
-* Software Testing
-* User-Acceptance Testing
-* Exploratory Testing
-* API Testing
+    #### :white_circle: Testing Techniques
+    * Functional Testing & Non-Functional Testing
+    * Unit Testing
+    * Integrated Testing
+    * Software Testing
+    * User-Acceptance Testing
+    * Exploratory Testing
+    * API Testing
 
-#### :white_circle: Tools for Automated Testing
-* Playwright
-* Selenium
-
-#### :white_circle: Data Manipulation
-* SQL
+    #### :white_circle: Tools for Automated Testing
+    * Playwright
+    * Selenium
+    
+    #### :white_circle: Data Manipulation
+    * SQL
 
 ### Languages & Frameworks
-#### :white_circle: Programming Languages
-* JavaScript
-* React.js
-* PHP
-* Laravel 
-
-#### :white_circle: Styling Languages
-* CSS, SCSS
-* Bootstrap, Tailwind 
-
-#### :white_circle: Markup Language
-* HTML
+    #### :white_circle: Programming Languages
+    * JavaScript, React.js
+    * PHP, Laravel 
+    
+    #### :white_circle: Styling Languages
+    * CSS, SCSS
+    * Bootstrap, Tailwind 
+    
+    #### :white_circle: Markup Language
+    * HTML
 
 ### Tools
-* Jira - For bug tracking and project management
-* Postman API - For API testing
-* Visual Studio Code - For developing
-* XAMPP
-* Git
-* Github - For repository
-* Microsoft Office (Word, Excel, PPT, etc.) - For creating reports
-* Google Drive - For storing files and data
+	* Jira - For bug tracking and project management
+	* Postman API - For API testing
+	* Visual Studio Code - For developing
+	* XAMPP
+	* Git
+	* Github - For repository
+	* Microsoft Office (Word, Excel, PPT, etc.) - For creating reports
+	* Google Drive - For storing files and data
 
 ## Soft Skills
-* Communication
-* Precision
-* Critical Thinking & Problem Solving
-* Time-Management
-* Adaptability
-* Patience
+	* Communication
+	* Precision
+	* Critical Thinking & Problem Solving
+	* Time-Management
+	* Adaptability
+	* Patience
 
 ## Certificates
 
