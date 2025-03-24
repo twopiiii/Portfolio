@@ -18,8 +18,11 @@ Hello, I'm Jomar Kristoffer L. Besayte. While my initial experience was in Web D
 * Functional Testing
 * Non-Functional Testing
 * Exploratory Testing
+* Unit Testing
+* Integrated Testing
+* Software Testing
 * User-Acceptance Testing
-* Software-Acceptance Testing
+* API Testing
 
 #### :white_circle: Automation
 * Playwright
@@ -33,12 +36,23 @@ Hello, I'm Jomar Kristoffer L. Besayte. While my initial experience was in Web D
 * HTML
 
 ### Tools
-* Jira
-* Postman API
-* Visual Studio Code
+* Jira - For bug tracking and project management
+* Postman API - For API testing
+* Visual Studio Code - For developing
 * XAMPP
 * Git
-* Github
-* Microsoft Office (Word, Excel, PPT, etc.)
-* Google Drive
+* Github - For repository
+* Microsoft Office (Word, Excel, PPT, etc.) - For creating reports
+* Google Drive - For storing files and data
 
+## Soft Skills
+* Communication
+* Precision
+* Critical Thinking & Problem Solving
+* Time-Management
+* Adaptability
+* Patience
+
+## Certificates
+
+## Work Samples
