@@ -32,10 +32,18 @@ Hello, I'm Jomar Kristoffer L. Besayte. While my initial experience was in Web D
 #### :white_circle: Data Manipulation
 * SQL
 
-#### :white_circle: Languages & Frameworks
-* JavaScript, React.js
-* PHP, Laravel
-* CSS, SCSS, Bootstrap, Tailwind
+### Languages & Frameworks
+#### :white_circle: Programming Languages
+* JavaScript
+* React.js (JavaScript Library)
+* PHP
+* Laravel (PHP Framework)
+
+#### :white_circle: Styling Languages
+* CSS, SCSS
+* Bootstrap, Tailwind (CSS Frameworks)
+
+#### :white_circle: Markup Language
 * HTML
 
 ### Tools
