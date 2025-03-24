@@ -9,27 +9,30 @@ Hello, I'm Jomar Kristoffer L. Besayte. While my initial experience was in Web D
 ### Software Testing
 #### :white_circle: General
 * SDLC & STLC
+* Flowchart creation
 * Test Scenario creation
 * Test Case creation
 * Bug Report creation
 * Documentation
   
-#### :white_circle: Manual Testing
+#### :white_circle: Testing Techniques
 * Functional Testing
 * Non-Functional Testing
-* Exploratory Testing
 * Unit Testing
 * Integrated Testing
 * Software Testing
 * User-Acceptance Testing
+* Exploratory Testing
 * API Testing
 
-#### :white_circle: Automation
+#### :white_circle: Tools for Automated Testing
 * Playwright
 * Selenium
 
-#### :white_circle: Others
+#### :white_circle: Data Manipulation
 * SQL
+
+#### :white_circle: Languages & Frameworks
 * JavaScript, React.js
 * PHP, Laravel
 * CSS, SCSS, Bootstrap, Tailwind
