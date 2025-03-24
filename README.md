@@ -6,13 +6,13 @@ Hello, I'm Jomar Kristoffer L. Besayte. While my initial experience was in Web D
 [My Linkedin Profile](https://www.linkedin.com/in/jomar-kristoffer-besayte-587256312/)
 
 ## Technical Skills
-  ### Software Testing
-   #### :white_circle: General
-   * SDLC & STLC
-   * Flowchart creation
-   * Test Scenario & Test Case creation
-   * Bug Report creation
-   * Documentation
+### Software Testing
+#### :white_circle: General
+* SDLC & STLC
+* Flowchart creation
+* Test Scenario & Test Case creation
+* Bug Report creation
+* Documentation
   
 #### :white_circle: Testing Techniques
 * Functional Testing & Non-Functional Testing
