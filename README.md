@@ -13,7 +13,7 @@ Hello, I'm <b>Jomar Kristoffer L. Besayte</b>. While I originally started as a W
 * SDLC & STLC
 * Flowchart creation
 * Test Scenario & Test Case creation and execution
-* Bug tracking and report creation
+* Bug tracking and reporting
 * Documentation  
 
 #### Testing Techniques
