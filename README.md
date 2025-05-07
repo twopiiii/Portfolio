@@ -3,7 +3,7 @@
 ## About Me
 Hello, I'm <b>Jomar Kristoffer L. Besayte</b>. While I originally started as a Web Developer, I've discovered a passion for Quality Assurance (QA) and am committed to building a long-term career in this field. My background in freelance Web Development, where I integrated QA practices, has reinforced my belief in the importance of accessibility and inclusivity in the digital world. This portfolio highlights the skills I've acquired through online courses, independent study, and practical application. I am dedicated to continuous growth in QA and contributing to a more inclusive digital experience for all.
 
-* [Web Portfolio](https://www.linkedin.com/in/jomar-kristoffer-besayte-587256312/)  
+* [Web Portfolio](https://jomar-kristoffer-besayte-portfolio.netlify.app/)  
 * [LinkedIn Profile](https://www.linkedin.com/in/jomar-kristoffer-besayte-587256312/)
 <br>
 
